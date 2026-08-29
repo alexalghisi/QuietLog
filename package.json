@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "quietlog",
-  "description": "Neighbor noise log with quiet-hours math. A dated evidence pack for the landlord, not a shouting match in the stairwell."
+  "description": "Timestamped nuisance log with quiet-hours classification and a summary evidence pack."
 }
