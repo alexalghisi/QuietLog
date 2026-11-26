@@ -4,6 +4,10 @@ Timestamped nuisance log with quiet-hours classification (22:00–08:00) and a
 summary pack: incident count, night count, and total minutes. Evidence for a
 landlord or administrator, not a stairwell argument.
 
+**Download:** [latest release](https://github.com/alexalghisi/QuietLog/releases/latest)
+
+![QuietLog running](docs/preview.png)
+
 Classification is [`src/lib/noise.ts`](src/lib/noise.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
